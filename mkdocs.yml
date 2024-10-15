@@ -1,0 +1,61 @@
+site_name: birchkwok.github.io
+site_author: Birch Kwok
+site_url: https://birchkwok.github.io/
+
+theme:
+  name: mkdocs
+  features:
+    - color_mode
+
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  font:
+    text: false
+    code: Roboto Mono
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      permalink_class: headerlink
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+            show_source: true
+            sort: source
+            render_markdown: true
+
+nav:
+  - Home: index.md
+
