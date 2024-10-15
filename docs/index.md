@@ -8,4 +8,4 @@ I'm very happy that you've visited my channel, and I look forward to growing tog
 
 Below are my representative projects and links. I look forward to your review and feedback.
 
-## [My Projects](https://birchkwok.github.io/my_projects)
+[**My Projects**](https://birchkwok.github.io/projects)
