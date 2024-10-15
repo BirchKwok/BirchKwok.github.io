@@ -3,9 +3,22 @@ site_author: Birch Kwok
 site_url: https://birchkwok.github.io/
 
 theme:
-  name: mkdocs
+  name: material
   features:
-    - color_mode
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
 
   palette:
 
@@ -58,4 +71,4 @@ plugins:
 
 nav:
   - Home: index.md
-
+  - My Projects: projects.md
