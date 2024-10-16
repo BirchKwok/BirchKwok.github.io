@@ -1,11 +1,11 @@
-# Hi, there!
+# Hi, I'm Birch Kwok!
 
-I am birch. 
+I'm a dedicated tech enthusiast with a strong passion for machine learning and database technology. I believe in the transformative power of data and artificial intelligence, and I'm always excited to dive into new challenges that push the boundaries of innovation. I love coding, not just as a profession, but as a way to continuously learn, experiment, and create meaningful solutions that can make an impact.
 
-I am passionate about machine learning and database technology, coding for fun! 
+On my GitHub, you'll find projects that reflect my curiosity and dedication to problem-solving. Whether it's implementing advanced algorithms, building efficient database architectures, or developing new tools to make life easier, each project represents a step forward in my journey as a developer.
 
-I'm very happy that you've visited my channel, and I look forward to growing together with you.
+I'm thrilled that you've stopped by my page, and I invite you to explore my work. Your feedback and thoughts are always welcome, as I believe collaboration and shared learning are key to growth. Let’s learn, build, and evolve together!
 
-Below are my representative projects and links. I look forward to your review and feedback.
+Below are some of my representative projects and their links. Feel free to take a look, and I can't wait to hear what you think!
 
-[**My Projects**](https://birchkwok.github.io/projects)
+[**View my Projects**](https://birchkwok.github.io/projects)
