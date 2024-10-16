@@ -72,4 +72,3 @@ plugins:
 nav:
   - Home: index.md
   - My Projects: projects.md
-  - Test: https://birchkwok.github.io/lynsedb/latest/
