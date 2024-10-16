@@ -23,4 +23,4 @@ Your feedback and thoughts are always welcome, as I believe collaboration and sh
 Below are some of my representative projects and their links. Feel free to take a look, and I can't wait to hear what you think!
 <br>
 <br>
-[**View my Projects**](https://birchkwok.github.io/projects)
+[**View My Projects**](https://birchkwok.github.io/projects)
